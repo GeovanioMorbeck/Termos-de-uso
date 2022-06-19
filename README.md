@@ -13,7 +13,7 @@ Português/BR:
 
 5 - Você é responsável por manter seu app/arquivo atualizados para sempre ter melhor funcionamento
 
-6 - Reembolso por arrependimento de compra,somente no caso de não ter testado antes, nem ter nenhuma maneira de teste. Caso o aplicativo encontre problemas e pare de funcionar só terá reembolso de 50% do valor que tiver a usar, os dias usados serão descontados. Após 20 dias de uso você não tem direito ao reembolso.
+6 - Reembolso por arrependimento de compra,somente será feito no caso de não ter testado antes, nem ter nenhuma maneira de testado. Caso o aplicativo encontre problemas e pare de funcionar só terá reembolso de 50% do valor que tiver a usar, os dias usados serão descontados. Após 20 dias de uso você não tem direito ao reembolso.
 
 7 - Se você irá parar de usar o serviço, será por sua responsabilidade e será descontado normalmente como se estivesse usando,sem direito a reembolso.
 
